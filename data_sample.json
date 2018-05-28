@@ -1,12 +1,12 @@
 {
     "idle": [
-        "idle.mov"
+        "https://s3-ap-southeast-1.amazonaws.com/ipos-sample-video/idle.mov"
     ],
     "triggered": [
-        {"zone": "zone0", "file_name": "0.mov"},
-        {"zone": "zone1", "file_name": "1.mov"},
-        {"zone": "zone2", "file_name": "2.mov"},
-        {"zone": "zone3", "file_name": "3.mov"},
-        {"zone": "zone4", "file_name": "4.mov"}
+        {"zone": "zone0", "file_name": "https://s3-ap-southeast-1.amazonaws.com/ipos-sample-video/0.mov"},
+        {"zone": "zone1", "file_name": "https://s3-ap-southeast-1.amazonaws.com/ipos-sample-video/1.mov"},
+        {"zone": "zone2", "file_name": "https://s3-ap-southeast-1.amazonaws.com/ipos-sample-video/2.mov"},
+        {"zone": "zone3", "file_name": "https://s3-ap-southeast-1.amazonaws.com/ipos-sample-video/3.mov"},
+        {"zone": "zone4", "file_name": "https://s3-ap-southeast-1.amazonaws.com/ipos-sample-video/4.mov"}
     ]
 }
