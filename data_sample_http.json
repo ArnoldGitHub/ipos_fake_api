@@ -4,9 +4,9 @@
     ],
     "triggered": [
         {"zone": "zone0", "file_name": "https://s3-ap-southeast-1.amazonaws.com/ipos-sample-video/10204007-preview.mp4"},
-        {"zone": "zone1", "file_name": "https://s3-ap-southeast-1.amazonaws.com/ipos-sample-video/10528277-preview.mov"},
-        {"zone": "zone2", "file_name": "https://s3-ap-southeast-1.amazonaws.com/ipos-sample-video/16045882-preview.mov"},
-        {"zone": "zone3", "file_name": "https://s3-ap-southeast-1.amazonaws.com/ipos-sample-video/18899135-preview.mov"},
-        {"zone": "zone4", "file_name": "https://s3-ap-southeast-1.amazonaws.com/ipos-sample-video/26153558-preview.mov"}
+        {"zone": "zone1", "file_name": "https://s3-ap-southeast-1.amazonaws.com/ipos-sample-video/10528277-preview.mp4"},
+        {"zone": "zone2", "file_name": "https://s3-ap-southeast-1.amazonaws.com/ipos-sample-video/16045882-preview.mp4"},
+        {"zone": "zone3", "file_name": "https://s3-ap-southeast-1.amazonaws.com/ipos-sample-video/18899135-preview.mp4"},
+        {"zone": "zone4", "file_name": "https://s3-ap-southeast-1.amazonaws.com/ipos-sample-video/26153558-preview.mp4"}
     ]
 }
