@@ -1,6 +1,6 @@
 {
     "idle": [
-        "https://s3-ap-southeast-1.amazonaws.com/ipos-sample-video/preview1.mp4"
+        "https://s3-ap-southeast-1.amazonaws.com/ipos-sample-video/preview0.mp4"
     ],
     "triggered": [
         {"zone": "zone0", "file_name": "https://s3-ap-southeast-1.amazonaws.com/ipos-sample-video/preview2.mp4"}
